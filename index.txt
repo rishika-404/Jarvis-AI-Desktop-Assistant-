@@ -1,0 +1,32 @@
+JARVIS is a Voice-Based AI Assistant.
+It uses Different Technologies To Add New Unique Features. 
+It can Automate Tasks with just One Voice Command. It is a Desktop Based AI Assistant.
+
+    It can send emails on your behalf.
+    It can play music for you.
+    It can do Wikipedia searches for you.
+    It is capable of opening websites like Google, Youtube, etc., in a web browser.
+    It is capable of opening your code editor or IDE with a single voice command.
+
+
+#sapi5:-
+    Microsoft Speech API (SAPI5) is the technology for voice recognition and synthesis provided by Microsoft. Starting with Windows XP, it ships as part of the Windows OS.
+ The pyttsx3 module supports two voices first is female and the second is male which is provided by “sapi5” for windows. It supports three TTS engines : sapi5 – SAPI5 on Windows.
+
+
+#speech recognition:-
+    It allows computers to understand human language. Speech recognition is a machine's ability to listen to spoken words and identify them. You can then use speech recognition in Python to convert the spoken words into text, make a query or give a reply. You can even program some devices to respond to these spoken words.
+
+#sending mails :-
+    we can use smtplib (libary) Python provides smtplib module, which defines an SMTP client session object that can be used to send mail to any Internet machine with an SMTP or ESMTP listener daemon. host − This is the host running your SMTP server. You can specify IP address of the host or a domain name like abc.com .
+    
+    additional info: go to config.py and fill all the req field.
+
+#for listening some jokes use  pyjokes libary
+    Python supports creation of random jokes using one of its libraries.
+    Pyjokes is a python library that is used to create one-line jokes for programmers. Informally, it can also be referred as a fun python library which is pretty simple to use. 
+
+#ctype module is used here for locking the window
+    This function has the same result as pressing Ctrl+Alt+Del and clicking Lock Workstation. 
+
+
